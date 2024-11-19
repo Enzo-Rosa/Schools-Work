@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+@font-face {
+    font-family: "Montserrat";
+    src: url(../FONTS/Montserrat-Black.ttf);
+}
+@font-face {
+    font-family: "Poppins-Black";
+    src: url(../FONTS/Poppins-Black.ttf);
+}
+@font-face {
+    font-family: "Poppins-Regular";
+    src: url(../FONTS/Poppins-Regular.ttf);
+}
